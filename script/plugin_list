@@ -1,3 +1,6 @@
 github.com/apache/incubator-answer-plugins/connector-basic@latest
 github.com/apache/incubator-answer-plugins/reviewer-basic@latest
 github.com/apache/incubator-answer-plugins/captcha-basic@latest
+github.com/apache/incubator-answer-plugins/connector-google@latest
+github.com/apache/incubator-answer-plugins/connector-github@latest
+github.com/apache/incubator-answer-plugins/captcha-google-v2@latest
